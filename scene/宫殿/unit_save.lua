@@ -1,0 +1,4 @@
+units_to_create = {
+    {name = '$$default_units_ts.unit.星火战士.root', is_main_hero = 1, use_default_ai = '', team_id = 1, random_model_index = -1, position = {x = 463.4, y = 2079.3, z = 0.0}, facing = 0, scale = {x = 1.0, y = 1.0, z = 1.0}, scene_path = '', custom_name = '[默认]近战英雄样例', node_mark = '宫殿_1', group = '', rank = '宫殿/24', is_item = false, item_link = '', description = '', invisible = '', unselectable = '', light_baked_enable = false, attribute = {}, },
+    {name = '$$default_units_ts.unit.星火战士.root', is_main_hero = 0, use_default_ai = 'default_ai', team_id = 2, random_model_index = -1, position = {x = 3323.4, y = 2005.2, z = 256.0}, facing = -180, scale = {x = 1.0, y = 1.0, z = 1.0}, scene_path = '', custom_name = '[默认]近战英雄样例', node_mark = '宫殿_2', group = '', rank = '宫殿/25', is_item = false, item_link = '', description = '', invisible = '', unselectable = '', light_baked_enable = false, attribute = {}, },
+}

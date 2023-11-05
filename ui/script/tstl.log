@@ -1,0 +1,22 @@
+324.42509999964386:	{"globalClasses":["Array","Present","IEventNotify","Coroutine","Trigger","Item","Timer","Buff","Skill","Player","TriggerParamTable","TriggerEvent","Actor","ScreenPos","Target","EffectParam","EffectParamShared","YPR旋转","DataCache","Camera","Slot","Vector","Unit","Point"],"globalModules":["coroutine","_G","log","base"]}
+1268.1855999995023:	Loaded 0 plugins
+1268.6971999993548:	Parsing project settings
+1274.676199999638:	Transforming D:/xh/sjpx/ui/script/trigger_validator.ts
+1276.6806999994442:	moduleName:
+1276.6854999996722:	validator
+1276.966000000015:	exportScope:
+1276.9696999993175:	true
+1332.7961999997497:	Printing D:/xh/sjpx/ui/script/trigger_validator.ts
+1350.580999999307:	Transforming D:/xh/sjpx/ui/script/trigger_module_main_1.ts
+1351.5209999997169:	moduleName:
+1351.5249999994412:	sjpx_lweb
+1351.7459999993443:	exportScope:
+1351.7495999997482:	true
+1352.1058999998495:	Printing D:/xh/sjpx/ui/script/trigger_module_main_1.ts
+1356.2158999992535:	Constructing emit plan
+1356.607899999246:	Resolving dependencies for D:/xh/sjpx/ui/script/trigger_validator.ts
+1357.1712999995798:	Resolving dependencies for D:/xh/sjpx/ui/script/trigger_module_main_1.ts
+1357.6329999994487:	Emitting output
+1357.842699999921:	Emitting D:/xh/sjpx/ui/script/trigger_validator.lua
+1358.5992999998853:	Emitting D:/xh/sjpx/ui/script/trigger_module_main_1.lua
+1359.6905999993905:	Emit finished!

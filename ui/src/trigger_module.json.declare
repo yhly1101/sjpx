@@ -35,7 +35,7 @@
         "displayName":"",
         "flags":{
         },
-        "name":"single_simple_ts",
+        "name":"sjpx_lweb",
         "staticWarningMsgs":{
             "__TYPE":"Array",
             "contents":{
@@ -43,15 +43,15 @@
         },
         "tips":""
     },
-    "id":"ENV:client Module:single_simple_ts",
+    "id":"ENV:client Module:sjpx_lweb",
     "keyword":"",
     "methods":{
         "__TYPE":"Array",
         "contents":{
         }
     },
-    "name":"single_simple_ts",
-    "packageName":"single_simple_ts",
+    "name":"sjpx_lweb",
+    "packageName":"sjpx_lweb",
     "presets":{
         "__TYPE":"Array",
         "contents":{
@@ -83,8 +83,8 @@
         "source":{
             "ElementName":"Source",
             "targetUninit":{
-                "id":"ENV:client Module:single_simple_ts",
-                "packageName":"single_simple_ts",
+                "id":"ENV:client Module:sjpx_lweb",
+                "packageName":"sjpx_lweb",
                 "s_or_c":"client"
             }
         },

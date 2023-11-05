@@ -24,7 +24,7 @@
         "displayName":"",
         "flags":{
         },
-        "name":"single_simple_ts",
+        "name":"sjpx_lweb",
         "staticWarningMsgs":{
             "__TYPE":"Array",
             "contents":{
@@ -32,10 +32,10 @@
         },
         "tips":""
     },
-    "id":"ENV:server Module:single_simple_ts",
+    "id":"ENV:server Module:sjpx_lweb",
     "keyword":"",
-    "name":"single_simple_ts",
-    "packageName":"single_simple_ts",
+    "name":"sjpx_lweb",
+    "packageName":"sjpx_lweb",
     "rankOrder":0,
     "s_or_c":"server",
     "staticWarningMsgs":{
@@ -57,8 +57,8 @@
         "source":{
             "ElementName":"Source",
             "targetUninit":{
-                "id":"ENV:server Module:single_simple_ts",
-                "packageName":"single_simple_ts",
+                "id":"ENV:server Module:sjpx_lweb",
+                "packageName":"sjpx_lweb",
                 "s_or_c":"server"
             }
         },

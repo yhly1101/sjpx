@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<node origin="Editor/Light/Engine/default.lightgroup" id="23174">
-	<component type="Zone" id="7442">
+<node origin="Editor/Light/Engine/default.lightgroup" id="196345">
+	<component type="Zone" id="38659">
 		<attribute name="Bounding Box Min" value="-100000.00 -100000.00 -100000.00" />
 		<attribute name="Bounding Box Max" value="100000.00 100000.00 100000.00" />
 		<attribute name="Ambient Color" value="0 0.01717 0.05 1" />
-		<attribute name="Fog Color" value="0.231373 0.392157 0.658824 1" />
+		<attribute name="Fog Color" value="0.00392157 0.00392157 0.00392157 1" />
 		<attribute name="Depth Fog Density" value="1" />
 		<attribute name="Depth Fog Start" value="3000" />
 		<attribute name="Depth Fog End" value="4300" />
@@ -26,17 +26,17 @@
 		<attribute name="Role SphericalHarmonicsL2" value="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" />
 		<attribute name="Using Water Reflection Param" value="true" />
 	</component>
-	<node id="23175">
+	<node id="196346">
 		<attribute name="Is Enabled" value="true" />
 		<attribute name="Name" value="" />
 		<attribute name="Tags" />
 		<attribute name="Position" value="100000.00 0.00 0.00" />
-		<attribute name="Rotation" value="0.165611 -0.052217 -0.939228 -0.296137" />
+		<attribute name="Rotation" value="0.165611 -0.052217 -0.939227 -0.296137" />
 		<attribute name="Scale" value="1.00 1.00 1.00" />
 		<attribute name="Variables" />
-		<component type="Light" id="7443">
+		<component type="Light" id="38660">
 			<attribute name="Light Type" value="Directional" />
-			<attribute name="Color" value="1 0.92736 0.9 1" />
+			<attribute name="Color" value="0.97977 0.97977 0.97977 1" />
 			<attribute name="Brightness Multiplier" value="3" />
 			<attribute name="Use Temperature" value="true" />
 			<attribute name="Range" value="0" />
