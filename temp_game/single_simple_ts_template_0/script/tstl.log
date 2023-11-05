@@ -1,0 +1,22 @@
+517.2010999999475:	{"globalClasses":["Array","Present","IEventNotify","Coroutine","Actor","Team","Timer","Snapshot","EffectParamShared","TriggerParamTable","Item","Region","ScreenPos","Target","UnitTable","EffectParam","Point","Mover","Unit","Buff","HealInstance","TriggerEvent","DamageInstance","Slot","Skill","Inventory","Player","Trigger","Line","UnitGroup","Sight","DataCache","AISearcher","ScoreCommitter","ScoreObjData","ScoreGetParam","UserID","ScoreData","ScoreSetParam","ScoreAddParam","ScoreMoneyData","ScoreListAddParam","ScoreListModifyParam","ScoreListDeleteParam","ScoreListData","ScoreMsgSendParam","ScoreMsgQueryParam","ScoreNameNewParam","ScoreNameSearchParam","ScoreChannelMsgData","ScoreGetRankListParam","ScoreGetUserRankParam","ScoreGetRankListData","ScoreGetUserRankData","ScoreGetRankTotalData","ScoreGetRankTotalParam","ScoreMsgData","ScoreListID","ScoreID","ScoreNameData","ScoreMsgID","ScoreMoneyParam","os","DateTime","UnitBuff","autotest_log","ScoreRankSetParam","ScoreRankAddParam","UnitPropertyBonus","SceneObject","Quest","QuestCondition","crop","ScoreCropData","Vector","RegionRect","RegionCircle","Cast"],"globalModules":["coroutine","_G","log","base"]}
+2676.469599999953:	Loaded 0 plugins
+2677.4393999999156:	Parsing project settings
+2695.176099999924:	Transforming D:/xh/temp_game/single_simple_ts_template_0/script/trigger_validator.ts
+2698.3003000000026:	moduleName:
+2698.307899999898:	validator
+2699.0288999999175:	exportScope:
+2699.040699999896:	true
+3473.956799999927:	Printing D:/xh/temp_game/single_simple_ts_template_0/script/trigger_validator.ts
+3617.1022999999113:	Transforming D:/xh/temp_game/single_simple_ts_template_0/script/trigger_module_main_1.ts
+3632.050399999949:	moduleName:
+3632.095999999903:	single_simple_ts_template_0_nx8b
+3632.850999999908:	exportScope:
+3632.86109999998:	true
+3634.5191999999806:	Printing D:/xh/temp_game/single_simple_ts_template_0/script/trigger_module_main_1.ts
+3640.8728999999585:	Constructing emit plan
+3641.596399999922:	Resolving dependencies for D:/xh/temp_game/single_simple_ts_template_0/script/trigger_validator.ts
+3645.2605999999214:	Resolving dependencies for D:/xh/temp_game/single_simple_ts_template_0/script/trigger_module_main_1.ts
+3646.316099999938:	Emitting output
+3646.9922999999253:	Emitting D:/xh/temp_game/single_simple_ts_template_0/script/trigger_validator.lua
+3649.1688999999315:	Emitting D:/xh/temp_game/single_simple_ts_template_0/script/trigger_module_main_1.lua
+3673.2175999999745:	Emit finished!

@@ -1,0 +1,22 @@
+484.93759999994654:	{"globalClasses":["Array","Present","IEventNotify","Coroutine","Trigger","Item","Timer","Buff","Skill","Player","TriggerParamTable","TriggerEvent","Actor","ScreenPos","Target","EffectParam","EffectParamShared","YPR旋转","DataCache","Camera","Slot","Vector","Unit","Point"],"globalModules":["coroutine","_G","log","base"]}
+1848.7358999999706:	Loaded 0 plugins
+1849.5185999999521:	Parsing project settings
+1856.8950000000186:	Transforming D:/xh/temp_game/single_simple_ts_template_0/ui/script/trigger_validator.ts
+1859.4024000000209:	moduleName:
+1859.407799999928:	validator
+1859.875400000019:	exportScope:
+1859.8800000000047:	true
+1933.2624999999534:	Printing D:/xh/temp_game/single_simple_ts_template_0/ui/script/trigger_validator.ts
+1982.4255999999586:	Transforming D:/xh/temp_game/single_simple_ts_template_0/ui/script/trigger_module_main_1.ts
+1983.9309999999823:	moduleName:
+1983.93889999995:	single_simple_ts_template_0_nx8b
+1984.4645999999484:	exportScope:
+1984.47080000001:	true
+1985.0677999999607:	Printing D:/xh/temp_game/single_simple_ts_template_0/ui/script/trigger_module_main_1.ts
+1987.136599999969:	Constructing emit plan
+1987.6442999999272:	Resolving dependencies for D:/xh/temp_game/single_simple_ts_template_0/ui/script/trigger_validator.ts
+1988.360699999961:	Resolving dependencies for D:/xh/temp_game/single_simple_ts_template_0/ui/script/trigger_module_main_1.ts
+1989.0078999999678:	Emitting output
+1990.32640000002:	Emitting D:/xh/temp_game/single_simple_ts_template_0/ui/script/trigger_validator.lua
+1992.0008999999845:	Emitting D:/xh/temp_game/single_simple_ts_template_0/ui/script/trigger_module_main_1.lua
+1992.9319999999134:	Emit finished!
