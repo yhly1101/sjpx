@@ -1,0 +1,20 @@
+{
+	"MapDisplayName": "空白（单人V2）",
+	"HideTileDeco": false,
+	"EnableGAO": false,
+	"GuideURL": "http://pt.master.sce.xd.com/editor_app.html",
+	"ProjectName": "sjpx_lweb",
+	"TriggerEditorMode": "V2",
+	"MechanismMode": "BOTH",
+	"TemplateName": "single_simple_ts",
+	"EnableSetScoreName": true,
+	"IsLib": false,
+	"Accessable": false,
+	"TestMapPath": "",
+	"PackEffect": true,
+	"LibForEditor": false,
+	"api_version": {
+		"api_version": 0,
+		"show_name": "默认版本"
+	}
+}
