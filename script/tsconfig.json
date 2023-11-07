@@ -10,15 +10,15 @@
         "target":"esnext",
         "typeRoots":[
             "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/typescript_to_lua_node_modules/26/typescript_to_lua_node_modules//node_modules/@types",
-            "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/global_default/101/global_default/script/"
+            "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/global_default/102/global_default/script/"
         ],
         "types":[
             "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/typescript_to_lua_node_modules/26/typescript_to_lua_node_modules/node_modules/@typescript-to-lua/language-extensions",
-            "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/global_default/101/global_default/script/",
+            "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/global_default/102/global_default/script/",
             "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/defaultui/104/defaultui/script/",
             "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/ai_templates/lib_common_ai/87/lib_common_ai/script/",
             "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/script_libs/lib_control/96/lib_control/script/",
-            "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/script_libs/smallcard_get_items/128/smallcard_get_items/script/",
+            "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/script_libs/smallcard_get_items/129/smallcard_get_items/script/",
             "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/script_libs/smallcard_inventory/97/smallcard_inventory/script/",
             "D:/星火编辑器/Update/e.alpha.sce.xd.com/Res/_m/maps/script_libs/smallcard_mail/77/smallcard_mail/script/"
         ]

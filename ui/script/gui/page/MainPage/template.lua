@@ -10,8 +10,8 @@ local ctrl_wrapper = require '@common.base.gui.ctrl_wrapper'
 
 
 local lib_control = require '@lib_control.component'
-local lib_game_options = require '@lib_game_options.component'
 local smallcard_inventory = require '@smallcard_inventory.component'
+local lib_game_options = require '@lib_game_options.component'
 
 return gui_pkg.page_template {
     flatten_template = {

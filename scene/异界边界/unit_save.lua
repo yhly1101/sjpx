@@ -1,0 +1,3 @@
+units_to_create = {
+    {name = '$$default_units_ts.unit.星火战士.root', is_main_hero = 0, use_default_ai = '', team_id = 1, random_model_index = -1, position = {x = 6974.7, y = 6779.9, z = 128.0}, facing = 0, scale = {x = 1.0, y = 1.0, z = 1.0}, scene_path = '', custom_name = '[默认]近战英雄样例', node_mark = '异界边界_1', group = '', rank = '异界边界/4', is_item = false, item_link = '', description = '', invisible = '', unselectable = '', light_baked_enable = false, attribute = {}, },
+}

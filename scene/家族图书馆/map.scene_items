@@ -1,0 +1,8405 @@
+{
+	"TerrainInfo": [
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 128.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 384.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 640.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 896.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1152.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1408.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1664.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 1920.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2176.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 128.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 384.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 640.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 896.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 1152.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 1408.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 1664.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 1920.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 2176.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		},
+		{
+			"name": "me_tiles_hope/ground/tile_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"PointType": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"PointHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			},
+			"Mark": {
+				"Bottom": 0,
+				"Right": 0,
+				"Top": 0,
+				"Left": 0
+			},
+			"FixHeight": {
+				"BottomLeft": 0,
+				"BottomRight": 0,
+				"TopRight": 0,
+				"TopLeft": 0
+			}
+		},
+		{
+			"name": "me_tiles_hope/ground_0_0_0_0/ground_0_0_0_0",
+			"pos": {
+				"x": 2432.0,
+				"y": 2432.0,
+				"z": 0.0
+			},
+			"rot": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"uuid": "9gzjg5t9-pcnh-n4dw-figy-6nf2i0u6vh85"
+		}
+	],
+	"StaticDecorationAttribute": [
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "书架1",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 1231.58984375,
+				"y": 2320.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067094802856
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 89.99999237060547,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 0.9999994039535523,
+				"y": 1.4999992847442628,
+				"z": 1.0
+			},
+			"Group": "书架1",
+			"Rank": "家族图书馆/书架1@4/1",
+			"NoAdsorbent": true,
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "书架1",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 1529.1817626953126,
+				"y": 2320.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067094802856
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 89.99999237060547,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 0.9999994039535523,
+				"y": 1.4999992847442628,
+				"z": 1.0
+			},
+			"Group": "书架1",
+			"Rank": "家族图书馆/书架1@4/2",
+			"NoAdsorbent": true,
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "书架1",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 1081.076171875,
+				"y": 2320.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067094802856
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 89.99999237060547,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 0.9999994039535523,
+				"y": 1.4999992847442628,
+				"z": 1.0
+			},
+			"Group": "书架1",
+			"Rank": "家族图书馆/书架1@4/3",
+			"NoAdsorbent": true,
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合9",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 2360.0,
+				"y": 567.255615234375,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合9",
+			"Rank": "家族图书馆/组合9@5/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合9",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 2360.0,
+				"y": 269.6634216308594,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合9",
+			"Rank": "家族图书馆/组合9@5/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合9",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 2360.0,
+				"y": 717.7684326171875,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合9",
+			"Rank": "家族图书馆/组合9@5/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合10",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 1968.4105224609376,
+				"y": 227.61453247070313,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -0.70710688829422,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -89.99999237060547,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0000007152557374,
+				"y": 1.5000014305114747,
+				"z": 1.0
+			},
+			"Group": "组合10",
+			"Rank": "家族图书馆/组合10@6/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合10",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 1670.8177490234376,
+				"y": 227.6143798828125,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -0.70710688829422,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -89.99999237060547,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0000007152557374,
+				"y": 1.5000014305114747,
+				"z": 1.0
+			},
+			"Group": "组合10",
+			"Rank": "家族图书馆/组合10@6/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合10",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 2118.92333984375,
+				"y": 227.61404418945313,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -0.70710688829422,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -89.99999237060547,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0000007152557374,
+				"y": 1.5000014305114747,
+				"z": 1.0
+			},
+			"Group": "组合10",
+			"Rank": "家族图书馆/组合10@6/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合12",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 1961.58984375,
+				"y": 2320.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067094802856
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 89.99999237060547,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 0.9999994039535523,
+				"y": 1.4999992847442628,
+				"z": 1.0
+			},
+			"Group": "组合12",
+			"Rank": "家族图书馆/组合12@7/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合12",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 2259.181640625,
+				"y": 2320.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067094802856
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 89.99999237060547,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 0.9999994039535523,
+				"y": 1.4999992847442628,
+				"z": 1.0
+			},
+			"Group": "组合12",
+			"Rank": "家族图书馆/组合12@7/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合12",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 1811.0770263671876,
+				"y": 2320.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067094802856
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 89.99999237060547,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 0.9999994039535523,
+				"y": 1.4999992847442628,
+				"z": 1.0
+			},
+			"Group": "组合12",
+			"Rank": "家族图书馆/组合12@7/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合13",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 1238.41015625,
+				"y": 230.00003051757813,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -0.70710688829422,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -89.99999237060547,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0000007152557374,
+				"y": 1.5000014305114747,
+				"z": 1.0
+			},
+			"Group": "组合13",
+			"Rank": "家族图书馆/组合13@8/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合13",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 940.818115234375,
+				"y": 230.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -0.70710688829422,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -89.99999237060547,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0000007152557374,
+				"y": 1.5000014305114747,
+				"z": 1.0
+			},
+			"Group": "组合13",
+			"Rank": "家族图书馆/组合13@8/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合13",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 1388.923095703125,
+				"y": 230.00003051757813,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -0.70710688829422,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -89.99999237060547,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0000007152557374,
+				"y": 1.5000014305114747,
+				"z": 1.0
+			},
+			"Group": "组合13",
+			"Rank": "家族图书馆/组合13@8/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合14",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 1525.0,
+				"y": 1883.2412109375,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合14",
+			"Rank": "家族图书馆/组合14@9/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合14",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 1525.0,
+				"y": 1585.649169921875,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合14",
+			"Rank": "家族图书馆/组合14@9/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合14",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 1525.0,
+				"y": 2033.754150390625,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合14",
+			"Rank": "家族图书馆/组合14@9/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合15",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 1600.0,
+				"y": 1881.589599609375,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.999997615814209,
+				"y": 1.4999964237213135,
+				"z": 1.0
+			},
+			"Group": "组合15",
+			"Rank": "家族图书馆/组合15@10/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合15",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 1600.0,
+				"y": 2179.181640625,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.999997615814209,
+				"y": 1.4999964237213135,
+				"z": 1.0
+			},
+			"Group": "组合15",
+			"Rank": "家族图书馆/组合15@10/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合15",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 1599.999755859375,
+				"y": 1731.076416015625,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.999997615814209,
+				"y": 1.4999964237213135,
+				"z": 1.0
+			},
+			"Group": "组合15",
+			"Rank": "家族图书馆/组合15@10/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合16",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 825.2947998046875,
+				"y": 625.954345703125,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合16",
+			"Rank": "家族图书馆/组合16@11/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合16",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 825.2947998046875,
+				"y": 328.3621826171875,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合16",
+			"Rank": "家族图书馆/组合16@11/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合16",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 825.2947998046875,
+				"y": 776.4671630859375,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合16",
+			"Rank": "家族图书馆/组合16@11/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合17",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 890.0000610351563,
+				"y": 620.079345703125,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.999997615814209,
+				"y": 1.4999964237213135,
+				"z": 1.0
+			},
+			"Group": "组合17",
+			"Rank": "家族图书馆/组合17@12/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合17",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 890.0,
+				"y": 917.671630859375,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.999997615814209,
+				"y": 1.4999964237213135,
+				"z": 1.0
+			},
+			"Group": "组合17",
+			"Rank": "家族图书馆/组合17@12/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合17",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 889.99951171875,
+				"y": 469.56610107421877,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.999997615814209,
+				"y": 1.4999964237213135,
+				"z": 1.0
+			},
+			"Group": "组合17",
+			"Rank": "家族图书馆/组合17@12/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合19",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 890.0,
+				"y": 1922.538818359375,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.999997615814209,
+				"y": 1.4999964237213135,
+				"z": 1.0
+			},
+			"Group": "组合19",
+			"Rank": "家族图书馆/组合19@13/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合19",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 890.0,
+				"y": 2220.130615234375,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.999997615814209,
+				"y": 1.4999964237213135,
+				"z": 1.0
+			},
+			"Group": "组合19",
+			"Rank": "家族图书馆/组合19@13/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合19",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 889.99951171875,
+				"y": 1772.025390625,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.999997615814209,
+				"y": 1.4999964237213135,
+				"z": 1.0
+			},
+			"Group": "组合19",
+			"Rank": "家族图书馆/组合19@13/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合20",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 819.9999389648438,
+				"y": 1921.71142578125,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合20",
+			"Rank": "家族图书馆/组合20@14/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合20",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 820.0,
+				"y": 1624.119140625,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合20",
+			"Rank": "家族图书馆/组合20@14/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合20",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 820.0,
+				"y": 2072.22412109375,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合20",
+			"Rank": "家族图书馆/组合20@14/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合22",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 518.41015625,
+				"y": 229.99996948242188,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -0.70710688829422,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -89.99999237060547,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0000007152557374,
+				"y": 1.5000014305114747,
+				"z": 1.0
+			},
+			"Group": "组合22",
+			"Rank": "家族图书馆/组合22@15/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合22",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 220.81817626953126,
+				"y": 229.9999542236328,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -0.70710688829422,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -89.99999237060547,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0000007152557374,
+				"y": 1.5000014305114747,
+				"z": 1.0
+			},
+			"Group": "组合22",
+			"Rank": "家族图书馆/组合22@15/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合22",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 668.9232177734375,
+				"y": 229.99998474121095,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -0.70710688829422,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -89.99999237060547,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0000007152557374,
+				"y": 1.5000014305114747,
+				"z": 1.0
+			},
+			"Group": "组合22",
+			"Rank": "家族图书馆/组合22@15/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合23",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 2360.0,
+				"y": 1266.9464111328126,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合23",
+			"Rank": "家族图书馆/组合23@16/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合23",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 2360.0,
+				"y": 969.3543701171875,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合23",
+			"Rank": "家族图书馆/组合23@16/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合23",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 2360.0,
+				"y": 1417.4593505859376,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合23",
+			"Rank": "家族图书馆/组合23@16/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合24",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 511.5897521972656,
+				"y": 2320.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067094802856
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 89.99999237060547,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 0.9999994039535523,
+				"y": 1.4999992847442628,
+				"z": 1.0
+			},
+			"Group": "组合24",
+			"Rank": "家族图书馆/组合24@17/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合24",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 809.1817626953125,
+				"y": 2320.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067094802856
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 89.99999237060547,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 0.9999994039535523,
+				"y": 1.4999992847442628,
+				"z": 1.0
+			},
+			"Group": "组合24",
+			"Rank": "家族图书馆/组合24@17/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合24",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 361.07684326171877,
+				"y": 2320.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067094802856
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 89.99999237060547,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 0.9999994039535523,
+				"y": 1.4999992847442628,
+				"z": 1.0
+			},
+			"Group": "组合24",
+			"Rank": "家族图书馆/组合24@17/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合26",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 2360.0,
+				"y": 1965.1319580078126,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合26",
+			"Rank": "家族图书馆/组合26@18/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合26",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 2360.0,
+				"y": 1667.5396728515626,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合26",
+			"Rank": "家族图书馆/组合26@18/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合26",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 2360.0,
+				"y": 2115.64501953125,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合26",
+			"Rank": "家族图书馆/组合26@18/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合27",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 1525.0,
+				"y": 657.7232666015625,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合27",
+			"Rank": "家族图书馆/组合27@19/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合27",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 1525.0,
+				"y": 360.131103515625,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合27",
+			"Rank": "家族图书馆/组合27@19/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合27",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 1525.0,
+				"y": 808.236083984375,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.5,
+				"z": 1.0
+			},
+			"Group": "组合27",
+			"Rank": "家族图书馆/组合27@19/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_bookcase_01/model.prefab",
+			"ScenePath": "组合28",
+			"DecoName": "书架07",
+			"Position3D": {
+				"x": 1600.000244140625,
+				"y": 657.14306640625,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.9999966621398926,
+				"y": 1.4999949932098389,
+				"z": 1.0
+			},
+			"Group": "组合28",
+			"Rank": "家族图书馆/组合28@20/1",
+			"CastShadow": false,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_01/model.prefab",
+			"ScenePath": "组合28",
+			"DecoName": "书架07装饰_1",
+			"Position3D": {
+				"x": 1600.0,
+				"y": 954.7354736328125,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.9999966621398926,
+				"y": 1.4999949932098389,
+				"z": 1.0
+			},
+			"Group": "组合28",
+			"Rank": "家族图书馆/组合28@20/2",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_books_02/model.prefab",
+			"ScenePath": "组合28",
+			"DecoName": "书架08装饰_2",
+			"Position3D": {
+				"x": 1599.99951171875,
+				"y": 506.6300048828125,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": -8.742277657347586e-8,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.9999999403953552
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": -179.99998474121095,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.9999966621398926,
+				"y": 1.4999949932098389,
+				"z": 1.0
+			},
+			"Group": "组合28",
+			"Rank": "家族图书馆/组合28@20/3",
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/building/wall_preset_01/model.prefab",
+			"ScenePath": "",
+			"DecoName": "墙壁28",
+			"Position3D": {
+				"x": 2464.48486328125,
+				"y": 1253.2587890625,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 3.9000000953674318,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/21",
+			"NoAdsorbent": true,
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/building/wall_preset_01/model.prefab",
+			"ScenePath": "",
+			"DecoName": "墙壁28",
+			"Position3D": {
+				"x": 1270.2359619140626,
+				"y": 2411.859130859375,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 90.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.9999992847442627,
+				"y": 4.299997329711914,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/22",
+			"NoAdsorbent": true,
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/building/wall_preset_01/model.prefab",
+			"ScenePath": "",
+			"DecoName": "墙壁28",
+			"Position3D": {
+				"x": 1278.1439208984376,
+				"y": 41.625762939453128,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 90.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.9999995231628418,
+				"y": 4.299997329711914,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/23",
+			"NoAdsorbent": true,
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/building/wall_arch_preset_03/model.prefab",
+			"ScenePath": "",
+			"DecoName": "墙壁25",
+			"Position3D": {
+				"x": 30.0,
+				"y": 1272.0921630859376,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/24",
+			"NoAdsorbent": true,
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/building/wall_preset_01/model.prefab",
+			"ScenePath": "",
+			"DecoName": "墙壁28",
+			"Position3D": {
+				"x": 30.0,
+				"y": 1968.670654296875,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.4500000476837159,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/25",
+			"NoAdsorbent": true,
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/building/wall_preset_01/model.prefab",
+			"ScenePath": "",
+			"DecoName": "墙壁28",
+			"Position3D": {
+				"x": 30.0,
+				"y": 555.9102783203125,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.4500000476837159,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/26",
+			"NoAdsorbent": true,
+			"CastShadow": false,
+			"InnerstrokeEnable": true,
+			"OutstrokeEnable": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/dungeon/prefab/sm_dg_group_49/model.prefab",
+			"ScenePath": "",
+			"DecoName": "门02",
+			"Position3D": {
+				"x": 25.75048828125,
+				"y": 1287.0404052734376,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": -0.0,
+				"Yaw": 0.0,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/27",
+			"NoAdsorbent": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/prop/sm_desk_03/model.prefab",
+			"ScenePath": "",
+			"DecoName": "木桌7",
+			"Position3D": {
+				"x": 390.5498962402344,
+				"y": 1530.0364990234376,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 0.7071067690849304,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.7071067690849304
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 90.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 0.9999996423721314,
+				"y": 0.9999996423721314,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/28",
+			"NoAdsorbent": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/chinoiserie/sm_ch_baozipu_a_dengzi/model.prefab",
+			"ScenePath": "",
+			"DecoName": "凳子01_01",
+			"Position3D": {
+				"x": 387.8641662597656,
+				"y": 1643.62548828125,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/29",
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/_user/sirenmuzhizuoyi_x4lb/model.prefab",
+			"ScenePath": "",
+			"DecoName": "四人木制座椅",
+			"Position3D": {
+				"x": 450.0,
+				"y": 600.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": -0.0,
+				"Yaw": 0.0,
+				"Roll": -0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/30",
+			"NoAdsorbent": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/_user/sirenmuzhizuoyi_x4lb/model.prefab",
+			"ScenePath": "",
+			"DecoName": "四人木制座椅",
+			"Position3D": {
+				"x": 450.0,
+				"y": 1950.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/31",
+			"NoAdsorbent": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/_user/sirenmuzhizuoyi_x4lb/model.prefab",
+			"ScenePath": "",
+			"DecoName": "四人木制座椅",
+			"Position3D": {
+				"x": 1200.0,
+				"y": 1950.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/32",
+			"NoAdsorbent": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/_user/sirenmuzhizuoyi_x4lb/model.prefab",
+			"ScenePath": "",
+			"DecoName": "四人木制座椅",
+			"Position3D": {
+				"x": 1200.0,
+				"y": 600.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/33",
+			"NoAdsorbent": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/_user/sirenmuzhizuoyi_x4lb/model.prefab",
+			"ScenePath": "",
+			"DecoName": "四人木制座椅",
+			"Position3D": {
+				"x": 2000.0,
+				"y": 600.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/34",
+			"NoAdsorbent": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/_user/sirenmuzhizuoyi_x4lb/model.prefab",
+			"ScenePath": "",
+			"DecoName": "四人木制座椅",
+			"Position3D": {
+				"x": 2000.0,
+				"y": 1950.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/35",
+			"NoAdsorbent": true,
+			"Type": 2
+		},
+		{
+			"FullPrefabName": "deco/_user/sirenmuzhizuoyi_x4lb/model.prefab",
+			"ScenePath": "",
+			"DecoName": "四人木制座椅",
+			"Position3D": {
+				"x": 2000.0,
+				"y": 1250.0,
+				"z": 0.0
+			},
+			"Quat": {
+				"w": 1.0,
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			},
+			"Rotator": {
+				"Pitch": 0.0,
+				"Yaw": 0.0,
+				"Roll": 0.0
+			},
+			"Scale": {
+				"x": 1.0,
+				"y": 1.0,
+				"z": 1.0
+			},
+			"Group": "",
+			"Rank": "家族图书馆/36",
+			"NoAdsorbent": true,
+			"Type": 2
+		}
+	],
+	"LightMap": null
+}
