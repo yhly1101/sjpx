@@ -985,6 +985,17 @@ return function (datas)
         ['$$default_units_ts.spell.魔法防御（可开关）.root'] = datas.spell['$$default_units_ts.spell.魔法防御（可开关）']['root'],
         ['$$default_units_ts.spell.默认目标交互.CustomAction'] = datas.spell['$$default_units_ts.spell.默认目标交互']['CustomAction'],
         ['$$default_units_ts.spell.默认目标交互.root'] = datas.spell['$$default_units_ts.spell.默认目标交互']['root'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.ActorEffect'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['ActorEffect'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.ActorEffect_1'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['ActorEffect_1'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.Damage'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['Damage'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.Particle'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['Particle'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.Particle_1'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['Particle_1'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.PersistLoop'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['PersistLoop'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.RandomPointInCircle'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['RandomPointInCircle'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.Search'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['Search'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.Set'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['Set'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.Set_1'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['Set_1'],
+        ['$$sjpx_lweb.spell.朱雀-烈火燎原.root'] = datas.spell['$$sjpx_lweb.spell.朱雀-烈火燎原']['root'],
     }
     return dict
 end

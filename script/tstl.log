@@ -1,22 +1,22 @@
-321.7389000002295:	{"globalClasses":["Array","Present","IEventNotify","Coroutine","Actor","Team","Timer","Snapshot","EffectParamShared","TriggerParamTable","Item","Region","ScreenPos","Target","UnitTable","EffectParam","Point","Mover","Unit","Buff","HealInstance","TriggerEvent","DamageInstance","Slot","Skill","Inventory","Player","Trigger","Line","UnitGroup","Sight","DataCache","AISearcher","ScoreCommitter","ScoreObjData","ScoreGetParam","UserID","ScoreData","ScoreSetParam","ScoreAddParam","ScoreMoneyData","ScoreListAddParam","ScoreListModifyParam","ScoreListDeleteParam","ScoreListData","ScoreMsgSendParam","ScoreMsgQueryParam","ScoreNameNewParam","ScoreNameSearchParam","ScoreChannelMsgData","ScoreGetRankListParam","ScoreGetUserRankParam","ScoreGetRankListData","ScoreGetUserRankData","ScoreGetRankTotalData","ScoreGetRankTotalParam","ScoreMsgData","ScoreListID","ScoreID","ScoreNameData","ScoreMsgID","ScoreMoneyParam","os","DateTime","UnitBuff","autotest_log","ScoreRankSetParam","ScoreRankAddParam","UnitPropertyBonus","SceneObject","Quest","QuestCondition","crop","ScoreCropData","Vector","RegionRect","RegionCircle","Cast"],"globalModules":["coroutine","_G","log","base"]}
-1778.5462999995798:	Loaded 0 plugins
-1779.3754000011832:	Parsing project settings
-1792.5894000008702:	Transforming D:/xh/sjpx/script/trigger_validator.ts
-1794.8676000013947:	moduleName:
-1794.8724000006914:	validator
-1795.269300000742:	exportScope:
-1795.2740000002086:	true
-2369.967199999839:	Printing D:/xh/sjpx/script/trigger_validator.ts
-2451.930400000885:	Transforming D:/xh/sjpx/script/trigger_module_main_1.ts
-2459.445000000298:	moduleName:
-2459.451300000772:	sjpx_lweb
-2459.800100000575:	exportScope:
-2459.805400000885:	true
-2460.298800000921:	Printing D:/xh/sjpx/script/trigger_module_main_1.ts
-2463.302799999714:	Constructing emit plan
-2463.6758000012487:	Resolving dependencies for D:/xh/sjpx/script/trigger_validator.ts
-2464.685600001365:	Resolving dependencies for D:/xh/sjpx/script/trigger_module_main_1.ts
-2465.2486000005156:	Emitting output
-2465.435399999842:	Emitting D:/xh/sjpx/script/trigger_validator.lua
-2466.4846000000834:	Emitting D:/xh/sjpx/script/trigger_module_main_1.lua
-2466.8903999999166:	Emit finished!
+321.90720000024885:	{"globalClasses":["Array","Present","IEventNotify","Coroutine","Actor","Team","Timer","Snapshot","EffectParamShared","TriggerParamTable","Item","Region","ScreenPos","Target","UnitTable","EffectParam","Point","Mover","Unit","Buff","HealInstance","TriggerEvent","DamageInstance","Slot","Skill","Inventory","Player","Trigger","Line","UnitGroup","Sight","DataCache","AISearcher","ScoreCommitter","ScoreObjData","ScoreGetParam","UserID","ScoreData","ScoreSetParam","ScoreAddParam","ScoreMoneyData","ScoreListAddParam","ScoreListModifyParam","ScoreListDeleteParam","ScoreListData","ScoreMsgSendParam","ScoreMsgQueryParam","ScoreNameNewParam","ScoreNameSearchParam","ScoreChannelMsgData","ScoreGetRankListParam","ScoreGetUserRankParam","ScoreGetRankListData","ScoreGetUserRankData","ScoreGetRankTotalData","ScoreGetRankTotalParam","ScoreMsgData","ScoreListID","ScoreID","ScoreNameData","ScoreMsgID","ScoreMoneyParam","os","DateTime","UnitBuff","autotest_log","ScoreRankSetParam","ScoreRankAddParam","UnitPropertyBonus","SceneObject","Quest","QuestCondition","crop","ScoreCropData","Vector","RegionRect","RegionCircle","Cast"],"globalModules":["coroutine","_G","log","base"]}
+1763.7254999997094:	Loaded 0 plugins
+1764.427299999632:	Parsing project settings
+1778.648799999617:	Transforming D:/xh/sjpx/script/trigger_validator.ts
+1780.939699999988:	moduleName:
+1780.9443999994546:	validator
+1781.3233000002801:	exportScope:
+1781.3284999998286:	true
+2354.052299999632:	Printing D:/xh/sjpx/script/trigger_validator.ts
+2438.372999999672:	Transforming D:/xh/sjpx/script/trigger_module_main_1.ts
+2445.7961999997497:	moduleName:
+2445.8020000001416:	sjpx_lweb
+2446.1230999995023:	exportScope:
+2446.128299999982:	true
+2446.847099999897:	Printing D:/xh/sjpx/script/trigger_module_main_1.ts
+2449.838299999945:	Constructing emit plan
+2450.178399999626:	Resolving dependencies for D:/xh/sjpx/script/trigger_validator.ts
+2451.288800000213:	Resolving dependencies for D:/xh/sjpx/script/trigger_module_main_1.ts
+2451.826499999501:	Emitting output
+2452.018399999477:	Emitting D:/xh/sjpx/script/trigger_validator.lua
+2453.081999999471:	Emitting D:/xh/sjpx/script/trigger_module_main_1.lua
+2453.49199999962:	Emit finished!

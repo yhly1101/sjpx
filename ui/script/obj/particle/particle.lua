@@ -6861,6 +6861,34 @@ entry_datas['$$default_units_ts.spell.魔法防御（可开关）.Particle'] = {
     ['event'] = event_register,
 }
 
+entry_datas['$$sjpx_lweb.spell.朱雀-烈火燎原.Particle'] = {
+    ['Asset'] = 'effect/effect_new/effect_hit/ps_firering_hit_eff/particle.effect',
+    ['AutoScaleBaseRadius'] = 128,
+    ['Name'] = '粒子节点',
+    ['Scale'] = 1,
+    ['ID'] = 'Particle',
+    ['Class'] = 'particle',
+    ['NodeType'] = 'Particle',
+    ['NodeTypeLink'] = '$$.particle.Particle',
+    ['Template'] = 'Particle',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Particle',
+    ['event'] = event_register,
+}
+
+entry_datas['$$sjpx_lweb.spell.朱雀-烈火燎原.Particle_1'] = {
+    ['Asset'] = 'effect/effect_new/effect_guanghuan/eff_huoyanguanghuan/particle.effect',
+    ['AutoScaleBaseRadius'] = 128,
+    ['Name'] = '粒子节点',
+    ['Scale'] = 1,
+    ['ID'] = 'Particle_1',
+    ['Class'] = 'particle',
+    ['NodeType'] = 'Particle',
+    ['NodeTypeLink'] = '$$.particle.Particle',
+    ['Template'] = 'Particle',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Particle_1',
+    ['event'] = event_register,
+}
+
 entry_datas['$$default_units_ts.unit.6、远程普攻示例英雄.Particle'] = {
     ['Asset'] = 'effect/eff_roguelike/frostbolt_eff/frostbolt_eff1/particle.effect',
     ['AutoScaleBaseRadius'] = 128,

@@ -165,6 +165,14 @@ return function (datas)
         ['$$default_units_ts.unit.野猪.SpellRootCircle_1'] = datas.unit['$$default_units_ts.unit.野猪']['SpellRootCircle_1'],
         ['$$default_units_ts.unit.野猪.SpellRootVector_1'] = datas.unit['$$default_units_ts.unit.野猪']['SpellRootVector_1'],
         ['$$default_units_ts.unit.野猪.root'] = datas.unit['$$default_units_ts.unit.野猪']['root'],
+        ['$$sjpx_lweb.unit.朱雀.Model'] = datas.unit['$$sjpx_lweb.unit.朱雀']['Model'],
+        ['$$sjpx_lweb.unit.朱雀.root'] = datas.unit['$$sjpx_lweb.unit.朱雀']['root'],
+        ['$$sjpx_lweb.unit.步兵.ActorAdditionModel'] = datas.unit['$$sjpx_lweb.unit.步兵']['ActorAdditionModel'],
+        ['$$sjpx_lweb.unit.步兵.Model'] = datas.unit['$$sjpx_lweb.unit.步兵']['Model'],
+        ['$$sjpx_lweb.unit.步兵.Model_2'] = datas.unit['$$sjpx_lweb.unit.步兵']['Model_2'],
+        ['$$sjpx_lweb.unit.步兵.root'] = datas.unit['$$sjpx_lweb.unit.步兵']['root'],
+        ['$$sjpx_lweb.unit.玄武.Model'] = datas.unit['$$sjpx_lweb.unit.玄武']['Model'],
+        ['$$sjpx_lweb.unit.玄武.root'] = datas.unit['$$sjpx_lweb.unit.玄武']['root'],
     }
     return dict
 end

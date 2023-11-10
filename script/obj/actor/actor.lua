@@ -32830,6 +32830,86 @@ entry_datas['$$default_units_ts.spell.魔法防御（可开关）.ActorEffect'] 
     ['event'] = event_register,
 }
 
+entry_datas['$$sjpx_lweb.spell.朱雀-烈火燎原.ActorEffect'] = {
+    ['AutoScale'] = false,
+    ['CreationFilter'] = {
+        ['Self'] = true,
+        ['Ally'] = true,
+        ['Enemy'] = true,
+    },
+    ['Effect'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Particle',
+    ['EventCreation'] = 'on_cast_start',
+    ['EventCreationModel'] = '',
+    ['EventDestruction'] = 'on_cast_stop',
+    ['EventDestructionModel'] = 'Death',
+    ['FollowRotation'] = 1,
+    ['KillOnDeactivate'] = 0,
+    ['KillOnFinish'] = 1,
+    ['Name'] = '粒子表现节点（一次性）',
+    ['Offset'] = {
+        ['X'] = 0,
+        ['Y'] = 0,
+        ['Z'] = 0,
+    },
+    ['PlaySpeed'] = 1,
+    ['Rotation'] = {
+        ['X'] = 0,
+        ['Y'] = 0,
+        ['Z'] = 0,
+    },
+    ['Scale'] = 1,
+    ['ShowShadow'] = true,
+    ['SocketName'] = '',
+    ['sync'] = false,
+    ['ID'] = 'ActorEffect',
+    ['Class'] = 'actor',
+    ['NodeType'] = 'ActorEffect',
+    ['NodeTypeLink'] = '$$.actor.ActorEffect',
+    ['Template'] = 'ActorEffect',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.ActorEffect',
+    ['event'] = event_register,
+}
+
+entry_datas['$$sjpx_lweb.spell.朱雀-烈火燎原.ActorEffect_1'] = {
+    ['AutoScale'] = false,
+    ['CreationFilter'] = {
+        ['Self'] = true,
+        ['Ally'] = true,
+        ['Enemy'] = true,
+    },
+    ['Effect'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Particle_1',
+    ['EventCreation'] = 'on_cast_start',
+    ['EventCreationModel'] = '',
+    ['EventDestruction'] = 'on_cast_stop',
+    ['EventDestructionModel'] = 'Death',
+    ['FollowRotation'] = 1,
+    ['KillOnDeactivate'] = 0,
+    ['KillOnFinish'] = 1,
+    ['Name'] = '粒子表现节点',
+    ['Offset'] = {
+        ['X'] = 0,
+        ['Y'] = 0,
+        ['Z'] = 0,
+    },
+    ['PlaySpeed'] = 1,
+    ['Rotation'] = {
+        ['X'] = 0,
+        ['Y'] = 0,
+        ['Z'] = 0,
+    },
+    ['Scale'] = 10,
+    ['ShowShadow'] = true,
+    ['SocketName'] = '',
+    ['sync'] = true,
+    ['ID'] = 'ActorEffect_1',
+    ['Class'] = 'actor',
+    ['NodeType'] = 'ActorEffect',
+    ['NodeTypeLink'] = '$$.actor.ActorEffect',
+    ['Template'] = 'ActorEffect',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.ActorEffect_1',
+    ['event'] = event_register,
+}
+
 entry_datas['$$default_units_ts.unit.6、远程普攻示例英雄.ActorEffect'] = {
     ['AutoScale'] = false,
     ['CreationFilter'] = {
@@ -33857,6 +33937,40 @@ entry_datas['$$default_units_ts.unit.野猪.ActorEffect_2'] = {
     ['NodeTypeLink'] = '$$.actor.ActorEffect',
     ['Template'] = 'ActorEffect',
     ['Link'] = '$$default_units_ts.unit.野猪.ActorEffect_2',
+    ['event'] = event_register,
+}
+
+entry_datas['$$sjpx_lweb.unit.步兵.ActorAdditionModel'] = {
+    ['CreationFilter'] = {
+        ['Self'] = true,
+        ['Ally'] = true,
+        ['Enemy'] = true,
+    },
+    ['EventCreation'] = 'on_cast_start',
+    ['EventCreationModel'] = '',
+    ['EventDestruction'] = 'on_cast_stop',
+    ['EventDestructionModel'] = 'Death',
+    ['FollowRotation'] = 1,
+    ['Model'] = '$$sjpx_lweb.unit.步兵.Model_2',
+    ['Name'] = '附属模型表现节点（自动挂载骨骼）',
+    ['Offset'] = {
+        ['X'] = 0,
+        ['Y'] = 0,
+        ['Z'] = 0,
+    },
+    ['Rotation'] = {
+        ['X'] = 0,
+        ['Y'] = 0,
+        ['Z'] = 0,
+    },
+    ['SocketName'] = '',
+    ['sync'] = true,
+    ['ID'] = 'ActorAdditionModel',
+    ['Class'] = 'actor',
+    ['NodeType'] = 'ActorAdditionModel',
+    ['NodeTypeLink'] = '$$.actor.ActorAdditionModel',
+    ['Template'] = 'ActorAdditionModel',
+    ['Link'] = '$$sjpx_lweb.unit.步兵.ActorAdditionModel',
     ['event'] = event_register,
 }
 

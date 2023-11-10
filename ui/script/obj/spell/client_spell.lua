@@ -5009,6 +5009,58 @@ entry_datas['$$default_units_ts.spell.默认目标交互.root'] = {
     ['event'] = event_register,
 }
 
+entry_datas['$$sjpx_lweb.spell.朱雀-烈火燎原.root'] = {
+    ['AdvancedAnimationList'] = {
+        ['IsAdvanceAnimation'] = false,
+        ['TotalTime'] = 1,
+    },
+    ['AfterCastParticles'] = {
+    },
+    ['AfterCastSoundId'] = '',
+    ['AfterCastSoundNeedBreak'] = 2,
+    ['AssistName'] = '$$.target_indicator.圆形指示器.root',
+    ['BeforeCastParticles'] = {
+    },
+    ['BeforeCastSoundId'] = '',
+    ['BeforeCastSoundNeedBreak'] = 2,
+    ['CastingParticles'] = {
+    },
+    ['CastingSoundId'] = '',
+    ['CastingSoundNeedBreak'] = 2,
+    ['CritHitEffect'] = {
+    },
+    ['DefaultAnimationList'] = {
+        [1] = 'anim/human/barehanded_anim/hand_05/skill_016.ani',
+    },
+    ['ExtremeSpell'] = 0,
+    ['HitEffect'] = {
+    },
+    ['HitSoundId'] = '',
+    ['IconName'] = 'unkown',
+    ['MultiPhaseSetting'] = {
+        ['IsMultiPhase'] = false,
+        ['MultiPhaseCount'] = 1,
+        ['MultiPhaseAutoIncrement'] = false,
+    },
+    ['OriginSkill'] = 1,
+    ['PhysicalCriticalSound'] = '',
+    ['ShotParticles'] = {
+    },
+    ['ShotSoundId'] = '',
+    ['ShotSoundNeedBreak'] = 2,
+    ['ShowCastingTime'] = 0,
+    ['ShowName'] = '[EntryNode][$$sjpx_lweb.spell.朱雀-烈火燎原.root].Data.Game.Name',
+    ['StopCastAssistName'] = '',
+    ['TurnWithTarget'] = 0,
+    ['ID'] = 'root',
+    ['Class'] = 'spell',
+    ['NodeType'] = 'Spell',
+    ['NodeTypeLink'] = '$$.spell.Spell',
+    ['Template'] = 'Spell',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.root',
+    ['event'] = event_register,
+}
+
 entry_datas['$$default_units_ts.unit.6、远程普攻示例英雄.Spell'] = {
     ['AdvancedAnimationList'] = {
         ['IsAdvanceAnimation'] = false,

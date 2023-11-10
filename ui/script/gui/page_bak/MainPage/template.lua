@@ -9,9 +9,9 @@ local on_unit_prop = require '@common.base.gui.on_unit_prop'
 local ctrl_wrapper = require '@common.base.gui.ctrl_wrapper'
 
 
-local smallcard_inventory = require '@smallcard_inventory.component'
 local lib_game_options = require '@lib_game_options.component'
 local lib_control = require '@lib_control.component'
+local smallcard_inventory = require '@smallcard_inventory.component'
 
 return gui_pkg.page_template {
     flatten_template = {
@@ -50,6 +50,7 @@ return gui_pkg.page_template {
         smallcard_inventory.背包入口 {
             layout = {},
             name = '背包入口2',
+            show = false,
         },1,
     }
 }

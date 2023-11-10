@@ -3378,6 +3378,14 @@ do
             data.Formulas.Range = validator.validator_63878418
             data.Formulas.Time = validator.validator_234228873
         end
+        data = base.eff.cache("$$sjpx_lweb.spell.朱雀-烈火燎原.root")
+        if data then
+            data.Formulas.Mana = validator.validator_244194926
+            data.Formulas.Cooldown = validator.validator_135839809
+            data.Formulas.ChargeMax = validator.validator_211391127
+            data.Formulas.Range = validator.validator_63878418
+            data.Formulas.Time = validator.validator_234228873
+        end
         data = base.eff.cache("$$default_units_ts.unit.感应地雷.Spell")
         if data then
             data.Formulas.Mana = validator.validator_244194926

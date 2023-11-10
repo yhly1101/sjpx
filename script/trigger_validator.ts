@@ -1554,6 +1554,7 @@ module validator {
 	//$$default_units_ts.spell.魔法免疫（被动）_1.root:Data.Game.Formulas.Mana
 	//$$default_units_ts.spell.魔法防御（可开关）.root:Data.Game.Formulas.Mana
 	//$$default_units_ts.spell.默认目标交互.root:Data.Game.Formulas.Mana
+	//$$sjpx_lweb.spell.朱雀-烈火燎原.root:Data.Game.Formulas.Mana
 	//$$default_units_ts.unit.感应地雷.Spell:Data.Game.Formulas.Mana
 	//$$default_units_ts.unit.感应地雷.Spell_1:Data.Game.Formulas.Mana
 	//$$default_units_ts.unit.火龙.Spell:Data.Game.Formulas.Mana
@@ -1671,6 +1672,7 @@ module validator {
 	//$$default_units_ts.spell.魔法免疫（被动）_1.root:Data.Game.Formulas.Cooldown
 	//$$default_units_ts.spell.魔法防御（可开关）.root:Data.Game.Formulas.Cooldown
 	//$$default_units_ts.spell.默认目标交互.root:Data.Game.Formulas.Cooldown
+	//$$sjpx_lweb.spell.朱雀-烈火燎原.root:Data.Game.Formulas.Cooldown
 	//$$default_units_ts.unit.感应地雷.Spell:Data.Game.Formulas.Cooldown
 	//$$default_units_ts.unit.感应地雷.Spell_1:Data.Game.Formulas.Cooldown
 	//$$default_units_ts.unit.火龙.Spell:Data.Game.Formulas.Cooldown
@@ -1805,6 +1807,7 @@ module validator {
 	//$$default_units_ts.spell.魔法免疫（被动）_1.root:Data.Game.Formulas.ChargeMax
 	//$$default_units_ts.spell.魔法防御（可开关）.root:Data.Game.Formulas.ChargeMax
 	//$$default_units_ts.spell.默认目标交互.root:Data.Game.Formulas.ChargeMax
+	//$$sjpx_lweb.spell.朱雀-烈火燎原.root:Data.Game.Formulas.ChargeMax
 	//$$default_units_ts.unit.6、远程普攻示例英雄.Spell:Data.Game.Formulas.ChargeMax
 	//$$default_units_ts.unit.sce2号.SpellRootVector_2:Data.Game.Formulas.ChargeMax
 	//$$default_units_ts.unit.感应地雷.Spell:Data.Game.Formulas.ChargeMax
@@ -1938,6 +1941,7 @@ module validator {
 	//$$default_units_ts.spell.魔法免疫（被动）_1.root:Data.Game.Formulas.Range
 	//$$default_units_ts.spell.魔法防御（可开关）.root:Data.Game.Formulas.Range
 	//$$default_units_ts.spell.默认目标交互.root:Data.Game.Formulas.Range
+	//$$sjpx_lweb.spell.朱雀-烈火燎原.root:Data.Game.Formulas.Range
 	//$$default_units_ts.unit.6、远程普攻示例英雄.Spell:Data.Game.Formulas.Range
 	//$$default_units_ts.unit.sce2号.SpellRootVector_2:Data.Game.Formulas.Range
 	//$$default_units_ts.unit.感应地雷.Spell:Data.Game.Formulas.Range
@@ -2065,6 +2069,7 @@ module validator {
 	//$$default_units_ts.spell.魔法免疫（被动）_1.root:Data.Game.Formulas.Time
 	//$$default_units_ts.spell.魔法防御（可开关）.root:Data.Game.Formulas.Time
 	//$$default_units_ts.spell.默认目标交互.root:Data.Game.Formulas.Time
+	//$$sjpx_lweb.spell.朱雀-烈火燎原.root:Data.Game.Formulas.Time
 	//$$default_units_ts.unit.感应地雷.Spell:Data.Game.Formulas.Time
 	//$$default_units_ts.unit.感应地雷.Spell_1:Data.Game.Formulas.Time
 	//$$default_units_ts.unit.火龙.Spell:Data.Game.Formulas.Time
@@ -3633,6 +3638,13 @@ module validator {
 			data.Formulas.Time = validator_234228873
 		}
 		if (data = base.eff.cache("$$default_units_ts.spell.默认目标交互.root")) {
+			data.Formulas.Mana = validator_244194926
+			data.Formulas.Cooldown = validator_135839809
+			data.Formulas.ChargeMax = validator_211391127
+			data.Formulas.Range = validator_63878418
+			data.Formulas.Time = validator_234228873
+		}
+		if (data = base.eff.cache("$$sjpx_lweb.spell.朱雀-烈火燎原.root")) {
 			data.Formulas.Mana = validator_244194926
 			data.Formulas.Cooldown = validator_135839809
 			data.Formulas.ChargeMax = validator_211391127

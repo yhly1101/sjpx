@@ -2,7 +2,17 @@
 @default_units_ts/image/icons/剑刃风暴 (3).png
 @default_units_ts/image/icons/怒吼 (1).png
 @default_units_ts/image/icons/血焰之剑 (1).png
+Spellcast_1
+Spellcast_2
+Spellcast_5
 anim/human/sword_anim/DaJianZhanShi/skill_04.ani
+characters/Monster/SK_Spider_Burrow_S/model.prefab
+characters/monster/sm_huolong/model.prefab
+characters/monster/undeadbird_g/model.prefab
+characters1/guofeng_xiaobing03_i5ua/model.prefab
+effect/eff_Ceshi_1/particle/PS_Huo_5/particle.effect
+effect/eff_tongyong/huoqiu2/particle.effect
+effect/eff_tongyong/huoqiu_blast/particle.effect
 effect/eff_xujian/effect_dilie_001/particle.effect
 effect/eff_xujian/effect_fire_debuff/particle.effect
 effect/eff_xujian/effect_hit_001/particle.effect
@@ -14,11 +24,14 @@ effect/eff_xujian/effect_zhanshi_03buff/particle.effect
 effect/eff_xujian/effect_zhanshi_04/particle.effect
 effect/eff_xujian/effect_zhanshi_hit/particle.effect
 effect/eff_xujian/effect_zhanshi_jian01/particle.effect
+effect/effect_new/effect_hit/ps_firering_hit_eff/particle.effect
+eqpt/weapon/sk_standardfemale_warrior_02_wp2/model.prefab
 eqpt/weapon/sm_dr_sword_04_02/model.prefab
 maps/sjpx_lweb/anim/sk_basic2/anim/human/sword_anim/DaJianZhanShi/skill_02.ani
 maps/sjpx_lweb/anim/sk_basic2/anim/human/sword_anim/DaJianZhanShi/skill_03.ani
 maps/sjpx_lweb/anim/sk_basic2/anim/human/sword_anim/DaJianZhanShi/skill_04.ani
 maps/sjpx_lweb/anim/sk_basic2/anim/human/sword_anim/dajianzhanshi/skill_01.ani
+maps/sjpx_lweb/anim/undeadbird_g/anim/human/barehanded_anim/hand_05/skill_016.ani
 sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_01.ogg
 sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_02.ogg
 sound/a2_sfx/action/moveaction/footsteps/fs_gen_2feet_dirt_03.ogg

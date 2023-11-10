@@ -1124,4 +1124,143 @@ entry_datas['$$default_units_ts.unit.野猪.Model_1'] = {
     ['event'] = event_register,
 }
 
+entry_datas['$$sjpx_lweb.unit.朱雀.Model'] = {
+    ['ActorArray'] = {},
+    ['AnimMapping'] = {
+        [1] = {
+            ['NameTo'] = 'die',
+            ['NameFrom'] = 'Die',
+        },
+        [2] = {
+            ['NameTo'] = 'idle',
+            ['NameFrom'] = 'Idle',
+        },
+        [3] = {
+            ['NameTo'] = 'move',
+            ['NameFrom'] = 'Move',
+        },
+        [4] = {
+            ['NameTo'] = 'attack_01',
+            ['NameFrom'] = 'Spell',
+        },
+    },
+    ['Asset'] = 'characters/monster/undeadbird_g/model.prefab',
+    ['AutoScaleBaseRadius'] = 128,
+    ['BirthStandDeathAnim'] = 'idle',
+    ['BirthStandDeathAnimBirth'] = 'birth',
+    ['BirthStandDeathAnimDeath'] = 'death',
+    ['Events'] = {
+    },
+    ['ExtraAnimations'] = {
+    },
+    ['Name'] = '模型素材',
+    ['NeedOutScreenTick'] = 0,
+    ['Scale'] = 1,
+    ['ID'] = 'Model',
+    ['Class'] = 'model',
+    ['NodeType'] = 'Model',
+    ['NodeTypeLink'] = '$$.model.Model',
+    ['Template'] = 'Model',
+    ['Link'] = '$$sjpx_lweb.unit.朱雀.Model',
+    ['event'] = event_register,
+}
+
+entry_datas['$$sjpx_lweb.unit.步兵.Model'] = {
+    ['ActorArray'] = {},
+    ['AnimMapping'] = {
+        [1] = {
+            ['NameTo'] = 'die',
+            ['NameFrom'] = 'Die',
+        },
+        [2] = {
+            ['NameTo'] = 'idle',
+            ['NameFrom'] = 'Idle',
+        },
+        [3] = {
+            ['NameTo'] = 'move',
+            ['NameFrom'] = 'Move',
+        },
+        [4] = {
+            ['NameTo'] = 'attack_02',
+            ['NameFrom'] = 'Spell',
+        },
+    },
+    ['Asset'] = 'characters1/guofeng_xiaobing03_i5ua/model.prefab',
+    ['AutoScaleBaseRadius'] = 128,
+    ['BirthStandDeathAnim'] = 'idle',
+    ['BirthStandDeathAnimBirth'] = 'birth',
+    ['BirthStandDeathAnimDeath'] = 'death',
+    ['Events'] = {
+    },
+    ['ExtraAnimations'] = {
+    },
+    ['Name'] = '模型素材',
+    ['NeedOutScreenTick'] = 0,
+    ['Scale'] = 1,
+    ['ID'] = 'Model',
+    ['Class'] = 'model',
+    ['NodeType'] = 'Model',
+    ['NodeTypeLink'] = '$$.model.Model',
+    ['Template'] = 'Model',
+    ['Link'] = '$$sjpx_lweb.unit.步兵.Model',
+    ['event'] = event_register,
+}
+
+entry_datas['$$sjpx_lweb.unit.步兵.Model_2'] = {
+    ['ActorArray'] = {},
+    ['AnimMapping'] = {},
+    ['Asset'] = 'eqpt/weapon/sk_standardfemale_warrior_02_wp2/model.prefab',
+    ['AutoScaleBaseRadius'] = 128,
+    ['BirthStandDeathAnim'] = 'idle',
+    ['BirthStandDeathAnimBirth'] = 'birth',
+    ['BirthStandDeathAnimDeath'] = 'death',
+    ['Events'] = {
+    },
+    ['ExtraAnimations'] = {
+    },
+    ['Name'] = '模型素材',
+    ['NeedOutScreenTick'] = 0,
+    ['Scale'] = 1,
+    ['ID'] = 'Model_2',
+    ['Class'] = 'model',
+    ['NodeType'] = 'Model',
+    ['NodeTypeLink'] = '$$.model.Model',
+    ['Template'] = 'Model',
+    ['Link'] = '$$sjpx_lweb.unit.步兵.Model_2',
+    ['event'] = event_register,
+}
+
+entry_datas['$$sjpx_lweb.unit.玄武.Model'] = {
+    ['ActorArray'] = {},
+    ['AnimMapping'] = {
+        [1] = {
+            ['NameTo'] = 'die',
+            ['NameFrom'] = 'Die',
+        },
+        [2] = {
+            ['NameTo'] = 'Spellcast1',
+            ['NameFrom'] = 'Spell',
+        },
+    },
+    ['Asset'] = 'characters/monster/sk_spider_burrow_s/model.prefab',
+    ['AutoScaleBaseRadius'] = 128,
+    ['BirthStandDeathAnim'] = 'idle',
+    ['BirthStandDeathAnimBirth'] = 'birth',
+    ['BirthStandDeathAnimDeath'] = 'death',
+    ['Events'] = {
+    },
+    ['ExtraAnimations'] = {
+    },
+    ['Name'] = '模型素材',
+    ['NeedOutScreenTick'] = 0,
+    ['Scale'] = 1,
+    ['ID'] = 'Model',
+    ['Class'] = 'model',
+    ['NodeType'] = 'Model',
+    ['NodeTypeLink'] = '$$.model.Model',
+    ['Template'] = 'Model',
+    ['Link'] = '$$sjpx_lweb.unit.玄武.Model',
+    ['event'] = event_register,
+}
+
 return entry_datas

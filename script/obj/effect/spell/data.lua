@@ -90515,4 +90515,900 @@ entry_datas['root'] = {
     ['event'] = event_register,
 }
 module_datas['$$default_units_ts.spell.默认目标交互'] = entry_datas
+entry_datas = {}
+
+entry_datas['ActorEffect'] = {
+    ['Name'] = '粒子表现节点（一次性）',
+    ['SocketName'] = '',
+    ['Offset'] = {
+        ['X'] = 0,
+        ['Y'] = 0,
+        ['Z'] = 0,
+    },
+    ['FollowRotation'] = 1,
+    ['AttachForwardOnce'] = false,
+    ['Rotation'] = {
+        ['X'] = 0,
+        ['Y'] = 0,
+        ['Z'] = 0,
+    },
+    ['CreationFilter'] = {
+        ['Self'] = true,
+        ['Ally'] = true,
+        ['Enemy'] = true,
+    },
+    ['EventCreation'] = 'on_cast_start',
+    ['EventDestruction'] = 'on_cast_stop',
+    ['EventCreationModel'] = '',
+    ['EventDestructionModel'] = 'Death',
+    ['sync'] = false,
+    ['MiniMapIcon'] = {
+        ['MiniMapIcon'] = '',
+        ['MiniMapIconEnemy'] = '',
+        ['MiniMapIconZindex'] = 1,
+    },
+    ['Effect'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Particle',
+    ['ScaleByParent'] = 1,
+    ['Scale'] = 1,
+    ['AutoScale'] = false,
+    ['PlaySpeed'] = 1,
+    ['ForceOneShot'] = 1,
+    ['KillOnDeactivate'] = 0,
+    ['KillOnFinish'] = 1,
+    ['CreationFilterLevel'] = 0,
+    ['ShowShadow'] = true,
+    ['AnimTrail'] = {
+        ['Enable'] = false,
+        ['FirstSocetName'] = '',
+        ['SecondSocetName'] = '',
+        ['Width'] = 1,
+    },
+    ['PreviewModel'] = '',
+    ['ID'] = 'ActorEffect',
+    ['Class'] = 'actor',
+    ['NodeType'] = 'ActorEffect',
+    ['NodeTypeLink'] = '$$.actor.ActorEffect',
+    ['Template'] = 'ActorEffect',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.ActorEffect',
+    ['event'] = event_register,
+}
+
+entry_datas['ActorEffect_1'] = {
+    ['Name'] = '粒子表现节点',
+    ['SocketName'] = '',
+    ['Offset'] = {
+        ['X'] = 0,
+        ['Y'] = 0,
+        ['Z'] = 0,
+    },
+    ['FollowRotation'] = 1,
+    ['AttachForwardOnce'] = false,
+    ['Rotation'] = {
+        ['X'] = 0,
+        ['Y'] = 0,
+        ['Z'] = 0,
+    },
+    ['CreationFilter'] = {
+        ['Self'] = true,
+        ['Ally'] = true,
+        ['Enemy'] = true,
+    },
+    ['EventCreation'] = 'on_cast_start',
+    ['EventDestruction'] = 'on_cast_stop',
+    ['EventCreationModel'] = '',
+    ['EventDestructionModel'] = 'Death',
+    ['sync'] = true,
+    ['MiniMapIcon'] = {
+        ['MiniMapIcon'] = '',
+        ['MiniMapIconEnemy'] = '',
+        ['MiniMapIconZindex'] = 1,
+    },
+    ['Effect'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Particle_1',
+    ['ScaleByParent'] = 1,
+    ['Scale'] = 10,
+    ['AutoScale'] = false,
+    ['PlaySpeed'] = 1,
+    ['ForceOneShot'] = 0,
+    ['KillOnDeactivate'] = 0,
+    ['KillOnFinish'] = 1,
+    ['CreationFilterLevel'] = 1,
+    ['ShowShadow'] = true,
+    ['AnimTrail'] = {
+        ['Enable'] = false,
+        ['FirstSocetName'] = '',
+        ['SecondSocetName'] = '',
+        ['Width'] = 1,
+    },
+    ['PreviewModel'] = '',
+    ['ID'] = 'ActorEffect_1',
+    ['Class'] = 'actor',
+    ['NodeType'] = 'ActorEffect',
+    ['NodeTypeLink'] = '$$.actor.ActorEffect',
+    ['Template'] = 'ActorEffect',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.ActorEffect_1',
+    ['event'] = event_register,
+}
+
+entry_datas['Damage'] = {
+    ['Name'] = '伤害效果节点',
+    ['Chance'] = (function ()
+        local func = function (EffectParam)
+            return 1
+        end
+        return func
+    end)(),
+    ['SuppressValidatorFailOutput'] = true,
+    ['Validators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPValidators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPSwitch'] = true,
+    ['CanBeBlocked'] = true,
+    ['ActorArray'] = {
+        [1] = '$$sjpx_lweb.spell.朱雀-烈火燎原.ActorEffect',
+    },
+    ['TargetLocation'] = {
+        ['Effect'] = '',
+        ['Value'] = 'Default',
+        ['LocalVar'] = 'A',
+    },
+    ['TargetType'] = 'Unit',
+    ['ResponseFlags'] = {
+        ['Acquire'] = true,
+        ['Flee'] = false,
+    },
+    ['Amount'] = (function ()
+        local func = function (EffectParam)
+            return 10
+        end
+        return func
+    end)(),
+    ['Random'] = 30,
+    ['DamageType'] = '魔法',
+    ['AllowSpellModification'] = true,
+    ['ID'] = 'Damage',
+    ['Class'] = 'effect',
+    ['NodeType'] = 'EffectDamage',
+    ['NodeTypeLink'] = '$$.effect.EffectDamage',
+    ['Template'] = 'EffectDamage',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Damage',
+    ['event'] = event_register,
+}
+
+entry_datas['Particle'] = {
+    ['Name'] = '粒子节点',
+    ['Asset'] = 'effect/effect_new/effect_hit/ps_firering_hit_eff/particle.effect',
+    ['Scale'] = 1,
+    ['AutoScaleBaseRadius'] = 128,
+    ['ID'] = 'Particle',
+    ['Class'] = 'particle',
+    ['NodeType'] = 'Particle',
+    ['NodeTypeLink'] = '$$.particle.Particle',
+    ['Template'] = 'Particle',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Particle',
+    ['event'] = event_register,
+}
+
+entry_datas['Particle_1'] = {
+    ['Name'] = '粒子节点',
+    ['Asset'] = 'effect/effect_new/effect_guanghuan/eff_huoyanguanghuan/particle.effect',
+    ['Scale'] = 1,
+    ['AutoScaleBaseRadius'] = 128,
+    ['ID'] = 'Particle_1',
+    ['Class'] = 'particle',
+    ['NodeType'] = 'Particle',
+    ['NodeTypeLink'] = '$$.particle.Particle',
+    ['Template'] = 'Particle',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Particle_1',
+    ['event'] = event_register,
+}
+
+entry_datas['PersistLoop'] = {
+    ['Name'] = '周期性节点',
+    ['Chance'] = (function ()
+        local func = function (EffectParam)
+            return 1
+        end
+        return func
+    end)(),
+    ['SuppressValidatorFailOutput'] = true,
+    ['Validators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPValidators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPSwitch'] = true,
+    ['CanBeBlocked'] = true,
+    ['TargetLocation'] = {
+        ['Effect'] = '',
+        ['Value'] = 'Default',
+        ['LocalVar'] = 'A',
+    },
+    ['TargetType'] = 'Any',
+    ['ResponseFlags'] = {
+        ['Acquire'] = false,
+        ['Flee'] = false,
+    },
+    ['InitialEffect'] = '',
+    ['ExpireEffect'] = '',
+    ['FinalEffect'] = '',
+    ['PersistFlags'] = {
+        ['FinishStage'] = false,
+        ['Channeling'] = false,
+        ['Channeled'] = false,
+        ['RefreshModifierPerLoop'] = false,
+        ['UseHaste'] = false,
+        ['IgnoreStartDelay'] = true,
+    },
+    ['PersistValidator'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['PeriodicEffect'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Set',
+    ['Period'] = (function ()
+        local func = function (EffectParam)
+            return 0.5
+        end
+        return func
+    end)(),
+    ['PeriodicCount'] = (function ()
+        local func = function (EffectParam)
+            return 1000
+        end
+        return func
+    end)(),
+    ['Radius'] = (function ()
+        local func = function (EffectParam)
+            return 128
+        end
+        return func
+    end)(),
+    ['temp_PeriodicDistance'] = (function ()
+        local func = function (EffectParam)
+            return 0
+        end
+        return func
+    end)(),
+    ['temp_PeriodicAngle'] = 0,
+    ['temp_PeriodicVectorStart'] = {
+        ['Method'] = 'Facing',
+        ['Location'] = {
+            ['Effect'] = '',
+            ['Value'] = 'Default',
+            ['LocalVar'] = 'A',
+        },
+        ['OtherLocation'] = {
+            ['Effect'] = '',
+            ['Value'] = 'Default',
+            ['LocalVar'] = 'A',
+        },
+        ['LocalOffset'] = (function ()
+            local func = function (EffectParam)
+                return 0
+            end
+            return func
+        end)(),
+    },
+    ['AttributeHaste'] = '急速',
+    ['ID'] = 'PersistLoop',
+    ['Class'] = 'effect',
+    ['NodeType'] = 'EffectPersistLoop',
+    ['NodeTypeLink'] = '$$.effect.EffectPersistLoop',
+    ['Template'] = 'EffectPersistLoop',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.PersistLoop',
+    ['event'] = event_register,
+}
+
+entry_datas['RandomPointInCircle'] = {
+    ['Name'] = '圆内随机点节点',
+    ['Chance'] = (function ()
+        local func = function (EffectParam)
+            return 1
+        end
+        return func
+    end)(),
+    ['SuppressValidatorFailOutput'] = true,
+    ['Validators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPValidators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPSwitch'] = true,
+    ['CanBeBlocked'] = true,
+    ['TargetLocation'] = {
+        ['Effect'] = '',
+        ['Value'] = 'Default',
+        ['LocalVar'] = 'A',
+    },
+    ['TargetType'] = 'Any',
+    ['Radius'] = 2000,
+    ['Count'] = 1,
+    ['Effect'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Set_1',
+    ['RandomPointInCircleFlags'] = {
+        ['RestrictToCircumference'] = false,
+    },
+    ['PointLocalVar'] = '',
+    ['ID'] = 'RandomPointInCircle',
+    ['Class'] = 'effect',
+    ['NodeType'] = 'EffectRandomPointInCircle',
+    ['NodeTypeLink'] = '$$.effect.EffectRandomPointInCircle',
+    ['Template'] = 'EffectRandomPointInCircle',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.RandomPointInCircle',
+    ['event'] = event_register,
+}
+
+entry_datas['Search'] = {
+    ['Name'] = '搜索单位节点',
+    ['Chance'] = (function ()
+        local func = function (EffectParam)
+            return 1
+        end
+        return func
+    end)(),
+    ['SuppressValidatorFailOutput'] = true,
+    ['Validators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPValidators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPSwitch'] = true,
+    ['CanBeBlocked'] = true,
+    ['TargetLocation'] = {
+        ['Effect'] = '',
+        ['Value'] = 'Default',
+        ['LocalVar'] = 'A',
+    },
+    ['TargetType'] = 'Any',
+    ['ResponseFlags'] = {
+        ['Acquire'] = false,
+        ['Flee'] = false,
+    },
+    ['MinCount'] = 0,
+    ['MaxCount'] = (function ()
+        local func = function (EffectParam)
+            return -1
+        end
+        return func
+    end)(),
+    ['MinCountError'] = {
+        ['Result'] = 4,
+        ['ErrorText'] = '',
+        ['ErrorSound'] = '',
+    },
+    ['Method'] = 'Circle',
+    ['Angle'] = {
+        ['Method'] = 'Facing',
+        ['Location'] = {
+            ['Effect'] = '',
+            ['Value'] = 'Source',
+            ['LocalVar'] = 'A',
+        },
+        ['OtherLocation'] = {
+            ['Effect'] = '',
+            ['Value'] = 'Default',
+            ['LocalVar'] = 'A',
+        },
+        ['LocalOffset'] = (function ()
+            local func = function (EffectParam)
+                return 0
+            end
+            return func
+        end)(),
+    },
+    ['Width'] = (function ()
+        local func = function (EffectParam)
+            return 64
+        end
+        return func
+    end)(),
+    ['Height'] = (function ()
+        local func = function (EffectParam)
+            return 192
+        end
+        return func
+    end)(),
+    ['Radius'] = (function ()
+        local func = function (EffectParam)
+            return 2000
+        end
+        return func
+    end)(),
+    ['Arc'] = (function ()
+        local func = function (EffectParam)
+            return 30
+        end
+        return func
+    end)(),
+    ['SearchOffset'] = {
+        ['Angle'] = {
+            ['Method'] = 'Facing',
+            ['Location'] = {
+                ['Effect'] = '',
+                ['Value'] = 'Default',
+                ['LocalVar'] = 'A',
+            },
+            ['OtherLocation'] = {
+                ['Effect'] = '',
+                ['Value'] = 'Default',
+                ['LocalVar'] = 'A',
+            },
+            ['LocalOffset'] = (function ()
+                local func = function (EffectParam)
+                    return 0
+                end
+                return func
+            end)(),
+        },
+        ['Distance'] = 1,
+    },
+    ['SearchFilter'] = '敌方,单位;自身,无敌,死亡',
+    ['SearchEffect'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Damage',
+    ['SearchValidators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['SearchFlags'] = {
+        ['ExtendByUnitRadius'] = false,
+        ['ValidateChildrens'] = false,
+        ['OffsetByUnitRadiusAndAngle'] = false,
+    },
+    ['UnitLocalVar'] = '',
+    ['ID'] = 'Search',
+    ['Class'] = 'effect',
+    ['NodeType'] = 'EffectSearch',
+    ['NodeTypeLink'] = '$$.effect.EffectSearch',
+    ['Template'] = 'EffectSearch',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Search',
+    ['event'] = event_register,
+}
+
+entry_datas['Set'] = {
+    ['Name'] = '效果集合',
+    ['Chance'] = (function ()
+        local func = function (EffectParam)
+            return 1
+        end
+        return func
+    end)(),
+    ['SuppressValidatorFailOutput'] = true,
+    ['Validators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPValidators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPSwitch'] = true,
+    ['CanBeBlocked'] = true,
+    ['TargetLocation'] = {
+        ['Effect'] = '',
+        ['Value'] = 'Default',
+        ['LocalVar'] = 'A',
+    },
+    ['TargetType'] = 'Any',
+    ['EffectArray'] = {
+        [1] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Search',
+        [2] = '',
+    },
+    ['SetFlags'] = {
+        ['Unordered'] = false,
+        ['WithReplacement'] = false,
+        ['Recycle'] = false,
+        ['SetSource'] = false,
+        ['ValidateChildrens'] = false,
+    },
+    ['MinCount'] = -1,
+    ['MaxCount'] = -1,
+    ['ID'] = 'Set',
+    ['Class'] = 'effect',
+    ['NodeType'] = 'EffectSet',
+    ['NodeTypeLink'] = '$$.effect.EffectSet',
+    ['Template'] = 'EffectSet',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Set',
+    ['event'] = event_register,
+}
+
+entry_datas['Set_1'] = {
+    ['Name'] = '效果集合',
+    ['Chance'] = (function ()
+        local func = function (EffectParam)
+            return 1
+        end
+        return func
+    end)(),
+    ['SuppressValidatorFailOutput'] = true,
+    ['Validators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPValidators'] = (function ()
+        --- lua_plus ---
+        --- skip_undefined ---
+        local function func(效果节点)
+            local result = 0
+            return result
+        end
+        return func
+    end)(),
+    ['VRPSwitch'] = true,
+    ['CanBeBlocked'] = true,
+    ['ActorArray'] = {
+        [1] = '$$sjpx_lweb.spell.朱雀-烈火燎原.ActorEffect_1',
+    },
+    ['TargetLocation'] = {
+        ['Effect'] = '',
+        ['Value'] = 'Default',
+        ['LocalVar'] = 'A',
+    },
+    ['TargetType'] = 'Any',
+    ['SetFlags'] = {
+        ['Unordered'] = false,
+        ['WithReplacement'] = false,
+        ['Recycle'] = false,
+        ['SetSource'] = false,
+        ['ValidateChildrens'] = false,
+    },
+    ['MinCount'] = -1,
+    ['MaxCount'] = -1,
+    ['ID'] = 'Set_1',
+    ['Class'] = 'effect',
+    ['NodeType'] = 'EffectSet',
+    ['NodeTypeLink'] = '$$.effect.EffectSet',
+    ['Template'] = 'EffectSet',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.Set_1',
+    ['event'] = event_register,
+}
+
+entry_datas['root'] = {
+    ['Name'] = '[EntryNode][$$sjpx_lweb.spell.朱雀-烈火燎原.root].Data.Game.Name',
+    ['IconName'] = 'unkown',
+    ['Effect'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.PersistLoop',
+    ['LevelMax'] = 1,
+    ['LevelStart'] = 1,
+    ['SkillPointConfig'] = {
+        ['UseSkillPoint'] = false,
+        ['Validators'] = (function ()
+            --- lua_plus ---
+            --- skip_undefined ---
+            local function func(效果节点)
+                local result = 0
+                return result
+            end
+            return func
+        end)(),
+        ['Requirements'] = {
+            [1] = {
+                ['Attribute'] = '技能点',
+                ['Value'] = (function ()
+                    local func = function (EffectParam)
+                        return 1
+                    end
+                    return func
+                end)(),
+                ['IsCost'] = true,
+            },
+        },
+    },
+    ['Range'] = 8000,
+    ['SpellFlags'] = {
+        ['ClearOrders'] = true,
+        ['StopWalk'] = true,
+        ['WalkingCastingTurns'] = true,
+        ['IgnoreUncontrollable'] = false,
+        ['SuppressTurning'] = false,
+        ['Transient'] = false,
+        ['AttributeHasteAffectCooldown'] = false,
+        ['ImmediatelyTurn'] = false,
+        ['IsAttack'] = false,
+        ['Hidden'] = false,
+        ['InitOn'] = true,
+        ['UseFormula'] = false,
+        ['DisplayDescriptionOnLongClick'] = false,
+    },
+    ['Formulas'] = {
+        ['Mana'] = (function ()
+
+        end)(),
+        ['Cooldown'] = (function ()
+
+        end)(),
+        ['ChargeMax'] = (function ()
+
+        end)(),
+        ['Range'] = (function ()
+
+        end)(),
+        ['Time'] = (function ()
+
+        end)(),
+    },
+    ['ShowProgress'] = {
+        ['cast'] = false,
+        ['channel'] = false,
+        ['shot'] = true,
+        ['finish'] = false,
+        ['is_infinite'] = false,
+    },
+    ['SpellAttribute'] = {},
+    ['SpellInterruptConfig'] = {
+        ['InterruptedRequiredPriority'] = 0,
+        ['InterruptingPriority'] = 0,
+        ['InterruptedByWalk'] = true,
+        ['InterruptibleApproach'] = true,
+        ['InterruptiblePreswing'] = true,
+        ['InterruptibleCast'] = true,
+        ['InterruptibleChannel'] = true,
+        ['InterruptibleBackswing'] = true,
+    },
+    ['Description'] = {
+        [1] = '[EntryNode][$$sjpx_lweb.spell.朱雀-烈火燎原.root].Data.Game.Description[1]',
+    },
+    ['AttributeHaste'] = '',
+    ['Shotcut'] = '',
+    ['SimpleText'] = [[]],
+    ['SimpleVideo'] = '',
+    ['SimpleVideoPreview'] = '',
+    ['SpellData'] = {
+        ['max_value'] = 1,
+        ['skip_target_judge'] = true,
+        ['range'] = 0,
+        ['need_cast_in_range'] = 1,
+        ['distance'] = 0,
+        ['active'] = 0,
+        ['grow_time'] = 0,
+        ['initial_range'] = 0,
+        ['initial_distance'] = 0,
+        ['initial_width'] = 0,
+        ['show_stack'] = 0,
+        ['cooldown_mode'] = 0,
+        ['cool'] = 0,
+        ['charge_cool'] = 0,
+        ['cost'] = 0,
+        ['CostDes'] = '',
+        ['ShortDes'] = '[EntryNode][$$sjpx_lweb.spell.朱雀-烈火燎原.root].Data.Game.SpellData.ShortDes',
+        ['UpgradeDes'] = '[EntryNode][$$sjpx_lweb.spell.朱雀-烈火燎原.root].Data.Game.SpellData.UpgradeDes',
+        ['cast_type'] = 0,
+        ['target_type'] = 0,
+        ['affect_type'] = 7,
+        ['cast_start_time'] = 0,
+        ['cast_channel_time'] = 0,
+        ['cast_shot_time'] = 0,
+        ['cast_finish_time'] = 0,
+        ['ignore_cooldown_reduce'] = 0,
+        ['ignore_cost_reduce'] = 0,
+        ['ignore_skill_immune'] = 1,
+        ['ability_tags'] = {
+            [1] = '位移类型',
+            [2] = '被动位移',
+        },
+    },
+    ['CustomSpellData'] = {
+    },
+    ['StartEffect'] = '',
+    ['CreationEffect'] = '',
+    ['KeyValuePairs'] = {
+    },
+    ['ImmuneRestrictions'] = {
+    },
+    ['Responses'] = {
+    },
+    ['Cost'] = {
+        ['Cooldown'] = 5,
+        ['ChargeCool'] = 0,
+        ['CooldownMode'] = 0,
+        ['ChargeMax'] = 0,
+        ['Mana'] = 0,
+        ['ManaFraction'] = 0,
+    },
+    ['AIConfig'] = {
+        ['SmartCast'] = false,
+        ['SkillType'] = 0,
+        ['ReferenceDistance'] = 200,
+        ['ReferenceBuff'] = '',
+    },
+    ['SpellAnim'] = {
+        ['Animation'] = 'anim/human/barehanded_anim/hand_05/skill_016.ani',
+        ['PreviewModel'] = '',
+        ['AnimationHasChannel'] = true,
+        ['AnimationHasShot'] = false,
+        ['IsCustomTime'] = true,
+        ['HasChannel'] = true,
+        ['HasShot'] = true,
+        ['IsAdvanceAnimation'] = false,
+        ['IsAlias'] = false,
+    },
+    ['Time'] = {
+        ['cast_start_time'] = 5,
+        ['cast_channel_time'] = 2,
+        ['cast_shot_time'] = 500,
+        ['cast_finish_time'] = 5,
+    },
+    ['DefaultAnimationList'] = {
+        [1] = 'anim/human/barehanded_anim/hand_05/skill_016.ani',
+    },
+    ['AdvancedAnimationList'] = {
+        ['IsAdvanceAnimation'] = false,
+        ['TotalTime'] = 1,
+    },
+    ['AcquireSettings'] = {
+        ['AutoCast'] = false,
+        ['AutoCastOn'] = true,
+        ['ReCast'] = false,
+        ['ReCastUseAutoCast'] = false,
+        ['Enabled'] = true,
+        ['MultiTargetFilter'] = false,
+        ['TargetUnitFilter'] = '敌方,可见,单位;无敌,魔免,死亡',
+        ['TargetUnitFilters'] = {
+            [1] = '敌方,可见,单位;无敌,魔免,死亡',
+        },
+        ['TargetUnitRange'] = 800,
+        ['AutoCastRange'] = 1200,
+    },
+    ['Categories'] = {
+        [1] = '可被禁用',
+        [2] = '可被打断',
+        [3] = '可被沉默',
+        [4] = '主动技能',
+    },
+    ['SpellIndicatorSettings'] = {
+        ['CursorNormal'] = '$$.target_indicator.圆形指示器.root',
+        ['CursorStop'] = '',
+        ['CursorRadius'] = (function ()
+            local func = function (EffectParam)
+                return 2000
+            end
+            return func
+        end)(),
+        ['CursorWidth'] = (function ()
+            local func = function (EffectParam)
+                return 75
+            end
+            return func
+        end)(),
+        ['CursorArc'] = 0,
+    },
+    ['ClientSpell'] = {
+        ['IconName'] = 'unkown',
+        ['DefaultAnimationList'] = {
+        },
+        ['AdvancedAnimationList'] = {
+            ['IsAdvanceAnimation'] = false,
+            ['TotalTime'] = 1,
+        },
+        ['BeforeCastParticles'] = {
+        },
+        ['CastingParticles'] = {
+        },
+        ['ShotParticles'] = {
+        },
+        ['AfterCastParticles'] = {
+        },
+        ['HitEffect'] = {
+        },
+        ['CritHitEffect'] = {
+        },
+        ['TurnWithTarget'] = 0,
+        ['OriginSkill'] = 1,
+        ['ExtremeSpell'] = 0,
+        ['ShowCastingTime'] = 0,
+        ['BeforeCastSoundId'] = '',
+        ['BeforeCastSoundNeedBreak'] = 2,
+        ['CastingSoundId'] = '',
+        ['CastingSoundNeedBreak'] = 2,
+        ['ShotSoundId'] = '',
+        ['ShotSoundNeedBreak'] = 2,
+        ['AfterCastSoundId'] = '',
+        ['AfterCastSoundNeedBreak'] = 2,
+        ['HitSoundId'] = '',
+        ['PhysicalCriticalSound'] = '',
+    },
+    ['CustomClientSpell'] = {
+    },
+    ['ExtraAnimations'] = {
+    },
+    ['target_type'] = 2,
+    ['cast_type'] = 0,
+    ['skill_type'] = 0,
+    ['SpellControlConfig'] = {
+        ['DisplaySkillName'] = true,
+        ['DisplayCooldown'] = true,
+        ['DisplayDescriptionOnLongClick'] = false,
+        ['DisplayLevelProgress'] = false,
+        ['DisplayLevelProgressDivider'] = false,
+        ['DisplayLevelTextOnCanLearn'] = false,
+    },
+    ['MultiPhaseSetting'] = {
+        ['IsMultiPhase'] = false,
+        ['MultiPhaseCount'] = 1,
+        ['MultiPhaseAutoIncrement'] = false,
+    },
+    ['Sync'] = 'self',
+    ['ID'] = 'root',
+    ['Class'] = 'spell',
+    ['NodeType'] = 'Spell',
+    ['NodeTypeLink'] = '$$.spell.Spell',
+    ['Template'] = 'Spell',
+    ['Link'] = '$$sjpx_lweb.spell.朱雀-烈火燎原.root',
+    ['event'] = event_register,
+}
+module_datas['$$sjpx_lweb.spell.朱雀-烈火燎原'] = entry_datas
 return module_datas

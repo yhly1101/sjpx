@@ -190,7 +190,9 @@ characters/monster/sk_wild_boar/model.prefab
 characters/monster/sm_huolong/model.prefab
 characters/monster/undeadbird/model.prefab
 characters/monster/undeadbird_egg/model.prefab
+characters/monster/undeadbird_g/model.prefab
 characters/tramcar_td/jinbi/model.prefab
+characters1/guofeng_xiaobing03_i5ua/model.prefab
 characters1/sk_traineewitch8_woua/model.prefab
 deco/NDG/SM_Book01_A/model.prefab
 deco/chinoiserie/sm_dh_diaolou_a/model.prefab
@@ -377,10 +379,12 @@ effect/effect_new/eff_object/eff_object_pinjie_03/particle.effect
 effect/effect_new/eff_object/eff_object_pinjie_04/particle.effect
 effect/effect_new/eff_object/eff_object_pinjie_05/particle.effect
 effect/effect_new/effect_emit/eff_fireball_01/particle.effect
+effect/effect_new/effect_guanghuan/eff_huoyanguanghuan/particle.effect
 effect/effect_new/effect_hit/eff_hit_01/particle.effect
 effect/effect_new/effect_hit/eff_hit_02/particle.effect
 effect/effect_new/effect_hit/eff_hit_15/particle.effect
 effect/effect_new/effect_hit/ps_fireball_explode_eff/particle.effect
+effect/effect_new/effect_hit/ps_firering_hit_eff/particle.effect
 effect/effect_new/effect_mofa/eff_fuzhou_born/particle.effect
 effect/effect_new/effect_zhishiqi/eff_juxing/ps_tou_1/particle.effect
 effect/effect_new/effect_zhishiqi/eff_juxing/ps_wei_1/particle.effect
@@ -498,6 +502,7 @@ effect/td_eff/bingying/dao3/particle.effect
 eqpt/Weapon/SM_leishenchui/model.prefab
 eqpt/weapon/mofashi_weapon/model.prefab
 eqpt/weapon/sk_nezha2_weapon205/model.prefab
+eqpt/weapon/sk_standardfemale_warrior_02_wp2/model.prefab
 eqpt/weapon/sm_dr_spear_08_short/model.prefab
 eqpt/weapon/sm_dr_sword_04_02/model.prefab
 image/btn/gf_1_major_active.png
