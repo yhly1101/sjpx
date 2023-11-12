@@ -1435,6 +1435,7 @@ return function (datas)
         ['$$sjpx_lweb.camera_property.城池镜头.root'] = datas.camera_property['$$sjpx_lweb.camera_property.城池镜头']['root'],
         ['$$sjpx_lweb.camera_property.异界边界镜头.root'] = datas.camera_property['$$sjpx_lweb.camera_property.异界边界镜头']['root'],
         ['$$sjpx_lweb.camera_property.战场镜头.root'] = datas.camera_property['$$sjpx_lweb.camera_property.战场镜头']['root'],
+        ['$$sjpx_lweb.camera_property.魔域森林镜头.root'] = datas.camera_property['$$sjpx_lweb.camera_property.魔域森林镜头']['root'],
         ['$$defaultui.character.Listener.root'] = datas.character['$$defaultui.character.Listener']['root'],
         ['$$defaultui.character.Speaker.root'] = datas.character['$$defaultui.character.Speaker']['root'],
         ['$$default_units_ts.effect.击退.Buff_1'] = datas.effect['$$default_units_ts.effect.击退']['Buff_1'],

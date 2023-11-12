@@ -1,13 +1,13 @@
 [root]
 'client'={
-'watch'={
-},
 'bks'={
+},
+'watch'={
 },
 }
 'server'={
-'watch'={
-},
 'bks'={
+},
+'watch'={
 },
 }

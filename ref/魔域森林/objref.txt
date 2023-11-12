@@ -1,0 +1,3 @@
+characters/Monster/SK_Spider_Burrow_S/model.prefab
+characters1/guofeng_xiaobing03_i5ua/model.prefab
+eqpt/weapon/sk_standardfemale_warrior_02_wp2/model.prefab
